@@ -265,7 +265,7 @@
             // Replace the URL below with your FormSubmit endpoint, Formspree endpoint, or your server webhook.
             // Example FormSubmit AJAX: https://formsubmit.co/ajax/YOUREMAIL (replace YOUREMAIL with your email)
             // If you have a backend, replace with your webhook URL and handle multipart/form-data there.
-            const endpoint = const endpoint = 'https://script.google.com/macros/s/AKfycbyw1fT13VlNTXWYuLd7GuAL8HwqeFmfCC3Bt2uU6KMXo4ZiCAH-OmYuFapSG12Ys4SpMg/exec'; // Substitua SEU_SCRIPT_ID pelo ID do seu script
+            const endpoint = const endpoint = 'https://josemarcospinheironeto491-prog.github.io/catalogo-maquinas/exec'; // Substitua SEU_SCRIPT_ID pelo ID do seu script
 
             try{
                 formMessage.innerHTML = 'Enviando...';
@@ -308,3 +308,4 @@
     </script>
 </body>
 </html>
+
